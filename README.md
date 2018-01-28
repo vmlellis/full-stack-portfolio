@@ -4,6 +4,8 @@ Portfolio Site project, part of the Udacity [Full Stack Web Developer Nanodegree
 
 **Live Preview** can be found [here](https://vmlellis.github.io/full-stack-portfolio/).
 
+This project is using [bootstrap](http://getbootstrap.com/docs/3.3/) framework (v3.3.7).
+
 ## Project contents
 
 This project consists for the following files:
