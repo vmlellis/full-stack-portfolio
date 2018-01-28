@@ -1,0 +1,88 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: #2d3c49;
+}
+
+.img-responsive {
+  width: 100%;
+}
+
+.logo {
+  width: 60px;
+  margin-top: 20px;
+}
+
+.header {
+  border-bottom: solid 5px #7d97ad;
+  margin-bottom: 20px;
+}
+
+.container {
+  max-width: 980px;
+}
+
+.cover img {
+  width: 100%;
+}
+
+.feature-work h2 {
+  color: #aaa;
+  margin-top: 30px;
+  border-bottom: solid 1px #ddd;
+}
+
+.card {
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.card .img-box {
+  height: 180px;
+  display: block;
+}
+
+.card .img-box img {
+  height: 100%;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (max-width: 767px) {
+  .card {
+    border-bottom: solid 1px #ddd;
+    margin-bottom: 20px;
+  }
+
+  .card .img-box {
+    height: 100%;
+  }
+  .card .img-box img {
+    width: 100%;
+  }
+}
+
+footer {
+  margin-top: 20px;
+}
+
+footer .container {
+  border-top: solid 1px #7d97ad;
+  padding-top: 10px;
+}
+
+@media (max-width: 420px) {
+  .header .box-logo, .header .box-description {
+    width: 100%;
+  }
+
+  .logo {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .box-description {
+    text-align: center;
+  }
+}
