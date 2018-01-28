@@ -1,9 +1,8 @@
-# Udacity Full Stack Web Developer
-# Project 2 - Build a Portfolio Site
+# Project 2 - Build a Portfolio Site (Udacity Full Stack Web Developer)
 
 Portfolio Site project, part of the Udacity [Full Stack Web Developer Nanodegree](https://in.udacity.com/course/full-stack-web-developer-nanodegree--nd004).).
 
-## Live Preview - [Link](https://vmlellis.github.io/full-stack-portfolio/index.html).
+[Live Preview](https://vmlellis.github.io/full-stack-portfolio/).
 
 ## Project contents
 
