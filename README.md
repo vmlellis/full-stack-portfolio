@@ -2,7 +2,7 @@
 
 Portfolio Site project, part of the Udacity [Full Stack Web Developer Nanodegree](https://in.udacity.com/course/full-stack-web-developer-nanodegree--nd004).).
 
-[Live Preview](https://vmlellis.github.io/full-stack-portfolio/)
+**Live Preview** can be found [here](https://vmlellis.github.io/full-stack-portfolio/).
 
 ## Project contents
 
